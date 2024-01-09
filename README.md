@@ -16,6 +16,7 @@ The task involves preparing a Salt state that performs various operations on bot
   - `nginx.conf`: Nginx configuration file.
   - `nginx.logrotate`: configuration that will rotate nginx logs
 - **README.md:** This file providing information about the repository.
+- **Kartaca-task-documentation:** This is the whole documentation of my work & practicals I did on my local environment.
 
 ## Usage
 
